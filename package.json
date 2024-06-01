@@ -1,0 +1,22 @@
+{
+  "name": "intro-component-with-signup-form-master",
+  "version": "1.0.0",
+  "description": "Challenge Solution with HTML, JavaScript, SASS and Gulp",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "keywords": [
+    "JS",
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Alexander Reyes",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.77.2"
+  }
+}
